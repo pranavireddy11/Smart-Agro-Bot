@@ -33,3 +33,9 @@ Smart-Agro-Bot/
 ├── index.html
 ├── README.md
 └── assets/
+
+## Future Enhancements
+- Add multilingual support
+- Improve crop disease prediction accuracy
+- Integrate real-time weather forecasting
+- Add offline mode for rural areas
