@@ -25,6 +25,9 @@ An AI-powered farming assistant designed to help Indian farmers with crop guidan
 - Web Speech API
 - Google Translate API
 
+## System Architecture
+Frontend → Backend → AI Model → Database
+
 ## Project Structure
 
 ```text
@@ -39,3 +42,4 @@ Smart-Agro-Bot/
 - Improve crop disease prediction accuracy
 - Integrate real-time weather forecasting
 - Add offline mode for rural areas
+
