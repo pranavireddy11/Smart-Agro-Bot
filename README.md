@@ -28,6 +28,12 @@ An AI-powered farming assistant designed to help Indian farmers with crop guidan
 ## System Architecture
 Frontend → Backend → AI Model → Database
 
+## Features
+- Crop Recommendation
+- Disease Detection
+- Weather Updates
+- Fertilizer Suggestions
+
 ## Project Structure
 
 ```text
