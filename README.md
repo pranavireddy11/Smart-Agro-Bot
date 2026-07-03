@@ -34,6 +34,12 @@ Frontend → Backend → AI Model → Database
 - Weather Updates
 - Fertilizer Suggestions
 
+## Installation
+
+1. Clone the repository
+2. Install dependencies
+3. Run the application
+
 ## Project Structure
 
 ```text
